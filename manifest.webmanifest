@@ -1,0 +1,32 @@
+{
+  "name": "粉猪账本",
+  "short_name": "粉猪账本",
+  "description": "可爱粉色个人记账工具：记一笔只要三秒，账单像微信支付一样清楚，还支持导入微信账单。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF8FA",
+  "theme_color": "#FFF0F5",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="粉猪账本">
+  <rect width="64" height="64" rx="18" fill="#FF8FAB" />
+  <ellipse cx="18" cy="20" rx="9" ry="11" fill="#F79AB2" transform="rotate(-24 18 20)" />
+  <ellipse cx="46" cy="20" rx="9" ry="11" fill="#F79AB2" transform="rotate(24 46 20)" />
+  <ellipse cx="32" cy="37" rx="21" ry="19" fill="#FFD9E3" />
+  <circle cx="24" cy="33" r="2.4" fill="#5A4147" />
+  <circle cx="40" cy="33" r="2.4" fill="#5A4147" />
+  <ellipse cx="32" cy="42" rx="10" ry="7.5" fill="#FFE9EF" />
+  <ellipse cx="29" cy="42" rx="1.7" ry="2.8" fill="#D57E95" />
+  <ellipse cx="35" cy="42" rx="1.7" ry="2.8" fill="#D57E95" />
+  <ellipse cx="18" cy="40" rx="4" ry="2.5" fill="#FF9FB4" opacity=".75" />
+  <ellipse cx="46" cy="40" rx="4" ry="2.5" fill="#FF9FB4" opacity=".75" />
+  <circle cx="51" cy="13" r="7" fill="#FFD67E" stroke="#E7A845" stroke-width="1.6" />
+  <path d="M48.6 10.2 51 13l2.4-2.8M51 13v4M48.8 14.6h4.4" stroke="#B87A28" stroke-width="1.4" stroke-linecap="round" fill="none" />
+</svg>
